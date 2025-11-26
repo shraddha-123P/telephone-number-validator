@@ -1,0 +1,28 @@
+body {
+   background-color: bisque; 
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.heading {
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+.box {
+  padding: 8px;
+  width: 200px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 15px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+#results-div {
+  margin-top: 10px;
+  font-weight: bold;
+}
